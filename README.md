@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mallix5425.
+- 👋 Hi, I’m @Mallix5425 (Dan-Oswalt)
 - 👀 I’m interested in developing websites, applications, and games.
 - 🌱 I’m currently learning full-stack engineering (developement).
 - 💞️ I’m looking to collaborate on projects in the future, but am currently still in the learning process.
